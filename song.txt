@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Горда Стара планина,
 до ней Дунава синей,
 слънце Тракия огрява,
@@ -7,3 +8,13 @@
 ти си земен рай,
 твойта хубост, твойта прелест,
 ах, те нямат край.
+=======
+fffffffffffffffffffffffffffffff
+cccccccccccccccccccccccccccccc
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ggggggggggggggggggggggggg
+iiiiiiiiiiiiiiiiiiiiii
+ooooooooooooooooooooooooooooo
+lllllllllllllllllllllllllllll
+>>>>>>> 1107bff19862f7121e16421f14aea20be81e6eae
